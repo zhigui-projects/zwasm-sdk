@@ -1,0 +1,6 @@
+[package]
+name = "zwasm_sdk"
+version = "0.1.0"
+authors = ["grapebaba <281165273@qq.com>"]
+
+[dependencies]

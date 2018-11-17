@@ -1,0 +1,10 @@
+[package]
+name = "contract"
+version = "0.1.0"
+authors = ["grapebaba <281165273@qq.com>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+zwasm_sdk={ path = "../../" }
